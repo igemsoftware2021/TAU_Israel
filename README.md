@@ -17,17 +17,17 @@ Website: https://2021.igem.org/Team:TAU_Israel/
 
 
 
-***Credits***
+## Credits
 
 Our source code is available at: https://github.com/leviliyam/Igem_TAU_2021
 
-# Enable
+***Enable***
 Free Chrome plugin: https://www.enable.co.il/tos/
 
-# Python 3.9 Docker image
+***Python 3.9 Docker image***
 Python official free Docker image: https://hub.docker.com/_/python
 
-# MEME Suite
+***MEME Suite***
 Motif finder tool: https://meme-suite.org/meme/
 Authors: Timothy L. Bailey, William Noble
 Copyright (c) 1994-2019 The Regents of the University of California. All Rights Reserved.
