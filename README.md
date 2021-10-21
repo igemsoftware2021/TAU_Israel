@@ -4,12 +4,15 @@ Communique iGEM TAU 2021 repository
 ![Alt text](/logo.png?raw=true "Title")
 
 >Welcome to Communique, iGEM TAU 2021!
+>
 >This is our official github repository for the iGEM 2021 competition. 
 
-Bacteria are one of the most ubiquitous organisms on earth, present in both natural and synthetic communities called microbiomes. 
-Our goal is to create a microbiome‫-‬specific version of any genetic modification. Two sub-populations are determined:
-1. Optimized organisms- the bacteria that should be able to express the genetic modification optimally.
-2. Deoptimized organisms- the bacteria that *should not* be able to express the genetic modification.
+**Bacteria are one of the most ubiquitous organisms on earth, present in both natural and synthetic communities called microbiomes. 
+Our goal is to create a _microbiome‫-‬specific_ version of _any genetic modification_. 
+Two sub-populations are determined:**
+- **Optimized organisms**- the bacteria that should be able to express the genetic modification optimally.
+- **Deoptimized organisms**- the bacteria that *should not* be able to express the genetic modification.
+
 Then, our platform can autumatically create a microbiome specific version of your modification:
 
 ![Alt text](/illustration.png?raw=true "Title")
