@@ -31,7 +31,7 @@ Pull docker image: `docker pull igemtau21/communique`
 Run the image: `docker run -p 5000:5000 igemtau21/communique python main.py`
 
 
-**Recommended installation: dowload and un-tar the 'communique_install.tar' file, and follow the supplied user guide 
+#### Recommended installation: dowload and un-tar the 'communique_install.tar' file, and follow the supplied user guide 
 
 
 
