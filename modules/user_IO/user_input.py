@@ -79,10 +79,10 @@ class UserInputModule(object):
             except:
                 raise ValueError(
                     f'Error in protein .fasta file: {orf_fasta_fid}, make sure you inserted an undamaged .fasta file containing a single recored')
+            logger.info(f'\n\nSequence to be optimized given in the following file {orf_fasta_fid}')
+            logger.info(f'containing this sequence: {orf_seq}')
         prom_fasta_fid = usr_inp['selected_promoters']
         selected_prom = {}
-        logger.info(f'\n\nSequence to be optimized given in the following file {orf_fasta_fid}')
-        logger.info(f'containing this sequence: {orf_seq}')
         if prom_fasta_fid is not None:
             try:
                 selected_prom = fasta_to_dict(prom_fasta_fid)
