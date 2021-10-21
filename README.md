@@ -1,15 +1,15 @@
 ![Alt text](/logo.png?raw=true "Title")
 
->Welcome to Communique, iGEM TAU 2021!__
+>Welcome to Communique, iGEM TAU 2021!
 >This is our official github repository for the iGEM 2021 competition. 
 
 
 Bacteria are one of the most ubiquitous organisms on earth, present in both natural and synthetic communities called microbiomes.
-They constantly share genetic information in a process called _lateral gene transfer_, which prevents us from being able to engineer specific members of the community._
+They constantly share genetic information in a process called _lateral gene transfer_, which prevents us from being able to engineer specific members of the community.
 
 Using our software, you can take your gene of intrest along with two subpopulations:
-- **Optimized organisms**: the bacteria that should be able to express the genetic modification optimally._
-- **Deoptimized organisms**: the bacteria that *should not* be able to express the genetic modification._
+- **Optimized organisms**: the bacteria that should be able to express the genetic modification optimally.
+- **Deoptimized organisms**: the bacteria that *should not* be able to express the genetic modification. __
 And create a **microbiome‫-‬specific version** of any genetic modification- generically and automatically. 
 
 ![Alt text](/illustration.png?raw=true "Title")
