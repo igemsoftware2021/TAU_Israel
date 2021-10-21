@@ -1,6 +1,8 @@
 # Communique iGEM TAU Israel
 Communique iGEM TAU 2021 repository
 
+![Alt text](/logo.png?raw=true)
+
 Welcome to Communique, iGEM TAU 2021!
 This is our official github repository for the iGEM 2021 competition. 
 Our goal was to create a software tool to tailor create a microbiome‫-‬specific version of any genetic information
