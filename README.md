@@ -16,22 +16,22 @@ Then, our platform can autumatically create a microbiome specific version of you
 
 
 for any additional information:
+
 Email: igem.tau.21@gmail.com
+
 Website: https://2021.igem.org/Team:TAU_Israel/
 
 
 ## Quick installation guide
-Step 1: pull docker image
-'''
-docker pull igemtau21/communique
-'''
+### Step 1 
+Pull docker image: `docker pull igemtau21/communique`
 
-Step 2: run the image
-'''
-docker run -p 5000:5000 igemtau21/communique python main.py
-'''
+### Step 2 
+Run the image: `docker run -p 5000:5000 igemtau21/communique python main.py`
+
 
 ***Recommended installation: dowload and untar the 'communique_install.tar' file, and follow the supplied user guide ***
+
 
 ## Code
 The source code is organized as following- 
@@ -41,18 +41,15 @@ The source code is organized as following-
 
 
 ## Credits
-
 Our source code is available at: https://github.com/leviliyam/Igem_TAU_2021
 
-***Enable***
+### Enable
 Free Chrome plugin: https://www.enable.co.il/tos/
 
-***Python 3.9 Docker image***
+### Python 3.9 Docker image
 Python official free Docker image: https://hub.docker.com/_/python
 
-***MEME Suite***
+### MEME Suite
 Motif finder tool: https://meme-suite.org/meme/
 Authors: Timothy L. Bailey, William Noble
 Copyright (c) 1994-2019 The Regents of the University of California. All Rights Reserved.
-
-********************************
