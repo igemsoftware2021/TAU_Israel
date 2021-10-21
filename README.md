@@ -4,7 +4,7 @@ Communique iGEM TAU 2021 repository
 ![Alt text](/logo.png?raw=true "Title")
 
 Welcome to Communique, iGEM TAU 2021!
-This is our official github repository for the iGEM 2021 competition. 
+This is our official github repository for the iGEM 2021 competition. \n
 Our goal was to create a software tool to tailor create a microbiome‫-‬specific version of any genetic information
 In order to download our tool, you may download the communique_instal.tar file and follow the user guide to import our
 docker image. 
