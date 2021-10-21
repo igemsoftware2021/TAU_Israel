@@ -1,4 +1,4 @@
-# TAU_Israel
+# Communique iGEM TAU Israel
 Communique iGEM TAU 2021 repository
 
 Welcome to Communique, iGEM TAU 2021!
@@ -8,12 +8,23 @@ In order to download our tool, you may download the communique_instal.tar file a
 docker image. 
 
 The source code is organized as following- 
-1. front-end: all front-end design is in the GUI directory, and built using flask
-2. ackend development is divided into different modules as specified in our website
+1. All front-end design is in the GUI directory, and built using flask
+2. Backend development is divided into different modules as specified in our website
+3. Model analysis files: used to test our software on real metagenomic data
 
 for any additional information:
 Email: igem.tau.21@gmail.com
 Website: https://2021.igem.org/Team:TAU_Israel/
+
+
+## Quick installation guide
+Step 1: pull docker image
+docker pull igemtau21/communique
+
+Step 2: run the image
+docker run -p 5000:5000 igemtau21/communique python main.py
+
+***Recommended installation: dowload and untar the 'communique_install.tar' file, and follow the supplied user guide 
 
 
 
