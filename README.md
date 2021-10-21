@@ -4,10 +4,14 @@ Communique iGEM TAU 2021 repository
 ![Alt text](/logo.png?raw=true "Title")
 
 Welcome to Communique, iGEM TAU 2021!
-This is our official github repository for the iGEM 2021 competition. \n
-Our goal was to create a software tool to tailor create a microbiome‫-‬specific version of any genetic information
-In order to download our tool, you may download the communique_instal.tar file and follow the user guide to import our
-docker image. 
+This is our official github repository for the iGEM 2021 competition. 
+
+>Bacteria are one of the most ubiquitous organisms on earth, present in both natural and synthetic communities called microbiomes. 
+Our goal is to create a microbiome‫-‬specific version of any genetic modification. Two sub-populations are determined:
+1. Optimized organisms- the bacteria that should be able to express the genetic modification optimally.
+2. Deoptimized organisms- the bacteria that *should not* be able to express the genetic modification.
+Then, our platform can autumatically create a microbiome specific version of your modification:
+
 
 The source code is organized as following- 
 1. All front-end design is in the GUI directory, and built using flask
@@ -21,12 +25,12 @@ Website: https://2021.igem.org/Team:TAU_Israel/
 
 ## Quick installation guide
 Step 1: pull docker image
-docker pull igemtau21/communique
+'docker pull igemtau21/communique'
 
 Step 2: run the image
-docker run -p 5000:5000 igemtau21/communique python main.py
+'docker run -p 5000:5000 igemtau21/communique python main.py'
 
-***Recommended installation: dowload and untar the 'communique_install.tar' file, and follow the supplied user guide 
+***Recommended installation: dowload and untar the 'communique_install.tar' file, and follow the supplied user guide ***
 
 
 
