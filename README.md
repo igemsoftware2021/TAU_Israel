@@ -9,7 +9,9 @@ They constantly share genetic information in a process called _lateral gene tran
 
 Using our software, you can take your gene of intrest along with two subpopulations:
 - **Optimized organisms**: the bacteria that should be able to express the genetic modification optimally.
-- **Deoptimized organisms**: the bacteria that *should not* be able to express the genetic modification. __
+- **Deoptimized organisms**: the bacteria that *should not* be able to express the genetic modification.
+
+
 And create a **microbiome‫-‬specific version** of any genetic modification- generically and automatically. 
 
 ![Alt text](/illustration.png?raw=true "Title")
