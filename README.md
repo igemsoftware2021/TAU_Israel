@@ -1,7 +1,7 @@
 # Communique iGEM TAU Israel
 Communique iGEM TAU 2021 repository
 
-<!-- ![Alt text](/logo.png?raw=true "Title") -->
+![Alt text](/logo.png?raw=true "Title")
 
 Welcome to Communique, iGEM TAU 2021!
 This is our official github repository for the iGEM 2021 competition. 
