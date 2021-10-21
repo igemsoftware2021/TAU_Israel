@@ -32,9 +32,12 @@ Pull docker image: `docker pull igemtau21/communique`
 
 ### Step 2 
 Run the image: `docker run -p 5000:5000 igemtau21/communique python main.py`
+### Step 3
+Copy the following http to your browser: http://127.0.0.1:5000/
 
 
-#### Recommended installation: dowload and un-tar the 'communique_install.tar' file, and follow the supplied user guide 
+#### Recommended installation: dowload and unzip the 'communique_install.rar' file, and follow the supplied user guide
+You may used the example data supplied in order to get familiar with our software.
 
 
 
